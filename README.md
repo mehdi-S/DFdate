@@ -1,0 +1,1 @@
+It gives you the date of the day but in Dwarf Fortress format
